@@ -1,0 +1,19 @@
+body{
+    margin: 50px;
+    padding: 0;
+    background-image: url();
+    background-repeat: no-repeat;
+    font-family: "Roboto", Helvetica, Arial, sans-serif;
+    display: grid;
+    grid-template-columns:  repeat(1,1fr) ;
+}
+
+table{
+  align-self: center;
+  border: 1px;
+  width: auto;
+  line-height: 40px;
+}
+.avatar{
+  align-self: center;
+}
